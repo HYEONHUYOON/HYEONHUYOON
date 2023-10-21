@@ -5,7 +5,7 @@
     <!-- Backend -->
     <p><strong>Backend</strong></p>
     <div>
-        <img src="https://img.shields.io/badge/Node js-6DB33F?style=for-the-badge&logo=Node js&logoColor=white"> 
+        ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
     </div>
     <!-- Database -->
     <p><strong>Database</strong></p>
